@@ -1,0 +1,14 @@
+D:\simplilearn\course-3\day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.exe
+D:\simplilearn\course-3\day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.deps.json
+D:\simplilearn\course-3\day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.runtimeconfig.json
+D:\simplilearn\course-3\day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.dll
+D:\simplilearn\course-3\day-3\WelcomeApp\bin\Debug\net7.0\WelcomeApp.pdb
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.AssemblyInfoInputs.cache
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.AssemblyInfo.cs
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.dll
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\refint\WelcomeApp.dll
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.pdb
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\WelcomeApp.genruntimeconfig.cache
+D:\simplilearn\course-3\day-3\WelcomeApp\obj\Debug\net7.0\ref\WelcomeApp.dll

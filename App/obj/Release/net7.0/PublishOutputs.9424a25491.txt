@@ -1,0 +1,5 @@
+D:\simplilearn\course-3\day-3\App\bin\Release\net7.0\publish\CountingApp.exe
+D:\simplilearn\course-3\day-3\App\bin\Release\net7.0\publish\CountingApp.dll
+D:\simplilearn\course-3\day-3\App\bin\Release\net7.0\publish\CountingApp.deps.json
+D:\simplilearn\course-3\day-3\App\bin\Release\net7.0\publish\CountingApp.runtimeconfig.json
+D:\simplilearn\course-3\day-3\App\bin\Release\net7.0\publish\CountingApp.pdb
